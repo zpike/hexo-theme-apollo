@@ -1,8 +1,8 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Weibo: http://weibo.com/missemma777
+    GitHub: https://github.com/zpike
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -10,12 +10,12 @@ logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
-disqus:
-duoshuo:
+#disqus: spikezhou
+duoshuo: spikezz
 
 # Analytics
 # google-analytics:
 ga: UA-65933410-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2016
